@@ -1,5 +1,8 @@
 ## 🔐 About Me
 
+## Security-Focused Web3 Developer | Junior Cybersecurity Analyst
+
+
 I am a **security-focused Web3 developer and Junior Cybersecurity Analyst**, building simple and transparent tools for the Stacks ecosystem.
 
 My interest in cybersecurity comes from real-world experience.  
