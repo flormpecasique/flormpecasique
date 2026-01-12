@@ -1,12 +1,15 @@
 ## 🔐 About Me
 
-I am a **security-focused Web3 developer and Junior Cybersecurity Analyst**, building simple tools for the Stacks ecosystem with a strong emphasis on user safety.
+👋 Hi, I'm Flor
 
-My interest in cybersecurity comes from real-world experience.  
-I was personally affected by the **AlexLab exploit (2024)**, which motivated me to learn **Incident Response, Blue Team practices, and risk prevention**.
+I am currently undergoing intensive training in **Data Analysis**, aiming to build a solid career in the Tech sector.
 
-I enjoy combining:
-- Frontend development (JavaScript, HTML, CSS)
-- API integrations (Stacks ecosystem)
-- Defensive security thinking
-- Clear documentation and user-focused design
+I have previous experience in digital environments, documentation, and visual communication, which allows me to structure information and communicate it clearly.
+
+On this GitHub, I share practical projects focused on:
+- data organization and analysis
+- technical documentation
+- digital tools that support processes
+
+Junior profile, continuously learning.
+
