@@ -11,5 +11,5 @@ On this GitHub, I share practical projects focused on:
 - technical documentation
 - digital tools that support processes
 
-Junior profile, continuously learning.
+
 
