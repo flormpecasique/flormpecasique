@@ -1,15 +1,58 @@
 ## 🔐 About Me
 
-👋 Hi, I'm Flor
+# Hi, I'm Flor 👋
 
-I am currently undergoing intensive training in **Data Analysis**, aiming to build a solid career in the Tech sector.
+💻 Technology learner focused on **Cybersecurity and Data Analysis**
 
-I have previous experience in digital environments, documentation, and visual communication, which allows me to structure information and communicate it clearly.
+I enjoy building simple web projects, experimenting with AI tools, and exploring how technology can solve real-world problems.
 
-On this GitHub, I share practical projects focused on:
-- data organization and analysis
-- technical documentation
-- digital tools that support processes
+Currently expanding my skills through professional certifications and hands-on projects.
 
+---
 
+## 🚀 Current Focus
 
+* Cybersecurity fundamentals
+* Data analysis and data-driven thinking
+* Building small web projects and digital products
+* Exploring AI-assisted development
+
+---
+
+## 🎓 Certifications & Learning
+
+* Google Cybersecurity Professional Certificate
+* Google Data Analytics Professional Certificate *(in progress)*
+
+---
+
+## 🧰 Tools & Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+* Vercel
+* AI tools for development (Gemini, Claude, ChatGPT)
+
+---
+
+## 📈 What I'm Working On
+
+* Improving my GitHub portfolio
+* Building more practical projects
+* Developing skills to work in cybersecurity and data-related roles
+
+---
+
+## 🌱 Interests
+
+* Technology and AI
+* Cybersecurity
+* Data
+* Personal development
+* Digital products
+
+---
+
+✨ Thanks for visiting my GitHub profile.
