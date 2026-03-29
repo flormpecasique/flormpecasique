@@ -37,6 +37,22 @@ Currently expanding my skills through professional certifications and hands-on p
 
 ---
 
+## 📌 Featured Projects
+
+These are my **two latest web projects**, currently private on GitHub but live for demo:
+
+1. **Generador de Facturas para Autónomos España 2026**  
+   💡 Create professional invoices online with live preview, legal compliance, and optional dark mode.  
+   🔗 [Try Demo](https://facturas.florpena.es/)
+
+2. **Generador de Enlaces Mailto HTML – MailtoPro**  
+   💡 Build perfect mailto links with To, CC, BCC, subject and body prefilled, fully encoded and ready for HTML.  
+   🔗 [Try Demo](https://generadormailto.vercel.app/)
+
+> ⚠️ Code is private to protect IP, but demos are fully functional.
+
+---
+
 ## 📈 What I'm Working On
 
 * Improving my GitHub portfolio
