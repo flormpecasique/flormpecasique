@@ -54,7 +54,6 @@ Here are my **two latest web projects**, private on GitHub but live for demo:
 
 * Improving my GitHub portfolio
 * Building more practical projects
-* Developing skills to work in cybersecurity and data-related roles
 
 ---
 
