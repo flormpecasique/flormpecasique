@@ -48,6 +48,11 @@ Here are my **two latest web projects**, private on GitHub but live for demo:
 
 > ⚠️ Code is private to protect IP, but demos are fully functional.
 
+
+---
+
+# 🌟 Others
+
 # 🌟 Featured Projects by Flor Peña
 
 ## Conversion Websites
@@ -56,22 +61,29 @@ Here are my **two latest web projects**, private on GitHub but live for demo:
 ## Online Courses
 - **Resin Course** – Online course platform. [Demo](https://enresina.vercel.app) | React, Vercel
 - **Car Detailing Course** – Online automotive detailing course. [Demo](https://cardetailing-curso.vercel.app) | React, TailwindCSS
-- **FotoPro** – Online photography course landing page. [Demo](https://github.com/flormpecasique/fotopro) | HTML, CSS, JS
+-  **FotoPro** – Online photography course landing page. [Demo](https://github.com/flormpecasique/fotopro) | HTML, CSS, JS
 - **Vegan Baking Course** – Educational platform for vegan baking. [Demo](https://reposteriavegana.vercel.app) | React, Vercel
+
+## Data & Interactive Analysis
+- **Venezuela Economic Potential Dashboard** – Interactive data-driven panel analyzing Venezuela’s economic potential using public datasets, historical production, natural resources and investment scenarios.  
+  Enables users to explore growth opportunities and understand the impact of different investment strategies.  
+  [Demo](https://venezuela-economic-potential.vercel.app) | Data Analysis, Visualization, Web App
 
 ## MVPs & Web Tools
 - **Stacks Invoice** – Simple invoicing tool. [GitHub](https://github.com/flormpecasique/stacks-invoice) | Node.js, React
 - **STXTracker** – Stacks tracking tool. [GitHub](https://github.com/flormpecasique/StxTracker) | Node.js, React
 - **Stacking Calculator** – Cryptocurrency stacking calculator. [GitHub](https://github.com/flormpecasique/Calculator-stacking) | Node.js
 - **Mailto Generator** – Easy mailto link generator. [GitHub](https://github.com/flormpecasique/generadormailto) | JS
-- **Invoice Generator** – Free, professional online invoicing for freelancers in Spain. [GitHub](https://github.com/flormpecasique/generadordefacturas) | JS, HTML, CSS
+- **Invoice Generator** – Free, professional online invoicing tool for freelancers in Spain. [GitHub](https://github.com/flormpecasique/generadordefacturas) | JS, HTML, CSS
 - **IGPRO** – Lightweight web prototype to download publicly available Instagram media. [GitHub](https://github.com/flormpecasique/IGPRO) | JS, React
 
 ## Cybersecurity Projects
 - **Cibersegura** – Security scripts and tools. [GitHub](https://github.com/flormpecasique/Cibersegura) | Python, Bash
 - **Crypto Incident Response Playbook – AlexLab** – Cryptography incident response manual. [GitHub](https://github.com/flormpecasique/Crypto-incident-response-playbook-alexlab) | Documentation, Python
 
+  
 ---
+
 
 ## 📈 What I'm Working On
 
