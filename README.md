@@ -53,8 +53,6 @@ Here are my **two latest web projects**, private on GitHub but live for demo:
 
 # 🌟 Others
 
-# 🌟 Featured Projects by Flor Peña
-
 ## Conversion Websites
 - **Caredoula** – Landing page for doula service. [Demo](https://caredoula.vercel.app) | React, Vercel
 
