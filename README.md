@@ -58,7 +58,7 @@ Tool to generate fully encoded mailto links for developers and marketing use.
   Resin → https://enresina.vercel.app  
   Cardetailing → https://cardetailing-curso.vercel.app  
   Vegan Baking → https://reposteriavegana.vercel.app  
-  FotoPro → https://github.com/flormpecasique/fotopro  
+  FotoPro → https://metodofotopro.vercel.app 
 
 ---
 
