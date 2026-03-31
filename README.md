@@ -2,7 +2,7 @@
 
 I build digital products, conversion-focused websites and data-driven web applications.
 
-My work combines frontend development, product thinking and data analysis to create solutions that are not only functional, but useful and scalable.
+I focus on creating real, usable tools — not just interfaces — combining frontend development, product thinking and data analysis.
 
 ---
 
@@ -10,24 +10,17 @@ My work combines frontend development, product thinking and data analysis to cre
 
 - Build **conversion-focused landing pages** for services and online courses  
 - Develop **MVPs and web tools** from idea to functional product  
-- Create **data-driven applications and interactive dashboards**  
-- Apply **user-focused and practical approaches** to every project  
+- Create **interactive, data-driven applications**  
+- Turn ideas into **real, usable digital products**  
 
 ---
 
 ## 🧠 Current Focus
 
-- Data analysis & data-driven decision making  
+- Data analysis & data-driven thinking  
 - Cybersecurity fundamentals  
 - Product-oriented development  
-- AI-assisted development workflows  
-
----
-
-## 🎓 Certifications
-
-- Google Cybersecurity Professional Certificate  
-- Google Data Analytics Professional Certificate *(in progress)*  
+- AI-assisted workflows  
 
 ---
 
@@ -41,44 +34,74 @@ My work combines frontend development, product thinking and data analysis to cre
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Live Products
 
-| Project | Description | Demo |
-|--------|------------|------|
-| 🧾 **Invoice Generator (Spain)** | Professional invoicing tool with legal compliance, live preview and modern UI. | https://generadordefacturas.vercel.app |
-| ✉️ **MailtoPro** | Tool to generate fully encoded mailto links for dev & marketing use. | https://generadormailto.vercel.app |
+### 🧾 Invoice Generator (Spain)
+Professional invoicing tool for freelancers with legal compliance, live preview and modern UI.  
+🔗 https://generadordefacturas.vercel.app  
 
-> ⚠️ Code is private to protect IP, demos are fully functional.
+---
+
+### ✉️ MailtoPro
+Tool to generate fully encoded mailto links for developers and marketing use.  
+🔗 https://generadormailto.vercel.app  
 
 ---
 
 ## 🌍 Selected Work
 
 ### Conversion Websites
-- Caredoula – https://caredoula.vercel.app  
-- Online courses (Resin, Cardetailing, Vegan Baking, FotoPro)
+- **Caredoula** – Service landing page  
+  🔗 https://caredoula.vercel.app  
 
-### Data & Interactive Apps
-- Venezuela Economic Potential Dashboard  
-  https://venezuela-economic-potential.vercel.app  
+- **Online Courses (Conversion-focused)**  
+  Resin → https://enresina.vercel.app  
+  Cardetailing → https://cardetailing-curso.vercel.app  
+  Vegan Baking → https://reposteriavegana.vercel.app  
+  FotoPro → https://github.com/flormpecasique/fotopro  
 
-### MVPs & Tools
+---
+
+### 📊 Data & Interactive Application
+
+**Venezuela Economic Potential Dashboard**  
+Interactive data-driven panel to explore economic opportunities, investment scenarios and growth potential using public datasets.  
+
+🔗 https://venezuela-economic-potential.vercel.app  
+
+---
+
+### ⚙️ MVPs & Tools
+
 - Stacks Invoice  
 - STXTracker  
 - Stacking Calculator  
 - IGPRO  
 
-### Cybersecurity
+(Projects focused on building functional tools and exploring product ideas)
+
+---
+
+### 🔐 Cybersecurity
+
 - Cibersegura  
 - Crypto Incident Response Playbook  
 
 ---
 
-## 📈 Currently
+## 🎓 Certifications
 
-- Expanding my portfolio with real-world projects  
-- Improving product thinking and data integration  
+- Google Cybersecurity Professional Certificate  
+- Google Data Analytics Professional Certificate *(in progress)*  
 
 ---
 
-✨ Thanks for visiting my profile
+## 📈 Currently
+
+- Building real-world projects  
+- Improving product + data integration  
+- Expanding my portfolio  
+
+---
+
+✨ Thanks for visiting
