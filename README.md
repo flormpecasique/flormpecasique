@@ -57,7 +57,8 @@ Tool to generate fully encoded mailto links for developers and marketing use.
 - **Online Courses (Conversion-focused)**  
   Resin → https://enresina.vercel.app  
   Cardetailing → https://cardetailing-curso.vercel.app  
-  Vegan Baking → https://reposteriavegana.vercel.app   
+  Vegan Baking → https://reposteriavegana.vercel.app
+  From Selfie to a Professional Photo with AI → https://metodofotopro.vercel.app/
 
 ---
 
