@@ -76,8 +76,7 @@ Interactive data-driven panel to explore economic opportunities, investment scen
 
 - Stacks Invoice → https://stacks-invoice.vercel.app
 - STXTracker → https://stx-tracker.vercel.app
-- Stacking Calculator  
-- IGPRO  
+- IGPRO → https://igpro.vercel.app
 
 (Projects focused on building functional tools and exploring product ideas)
 
