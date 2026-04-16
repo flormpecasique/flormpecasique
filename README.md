@@ -75,7 +75,7 @@ Interactive data-driven panel to explore economic opportunities, investment scen
 ### ⚙️ MVPs & Tools
 
 - Stacks Invoice → https://stacks-invoice.vercel.app
-- Stacks Tax & Data Export Layer → https://stackcvs.vercel.app
+- Stacks Tax & Data Export Layer → https://stackscsv.vercel.app
 - STXTracker → https://stx-tracker.vercel.app
 - IGPRO → https://igpro.vercel.app
 
