@@ -85,8 +85,8 @@ Interactive data-driven panel to explore economic opportunities, investment scen
 
 ### 🔐 Cybersecurity
 
-- Cibersegura  
-- Crypto Incident Response Playbook  
+- Cibersegura → https://cibersegura.vercel.app
+- Crypto Incident Response Playbook → https://github.com/flormpecasique/Crypto-incident-response-playbook-alexlab
 
 ---
 
