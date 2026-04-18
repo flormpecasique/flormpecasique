@@ -92,7 +92,7 @@ Interactive data-driven panel to explore economic opportunities, investment scen
 ## 🎓 Certifications
 
 - Google Cybersecurity Professional Certificate  
-- Google Data Analytics Professional Certificate *(in progress)*  
+- Google Data Analytics Professional Certificate
 
 ---
 
