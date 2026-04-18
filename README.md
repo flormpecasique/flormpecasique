@@ -104,4 +104,4 @@ Interactive data-driven panel to explore economic opportunities, investment scen
 
 ---
 
-✨ Thanks for visiting
+✨ Thanks for visiting 🤜
