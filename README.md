@@ -1,107 +1,105 @@
-## 👋 Hi, I'm Flor
+# 👋 Hi, I'm Flor Peña
 
-I build digital products, conversion-focused websites and data-driven web applications.
+**Product Designer & Product Builder**
 
-I focus on creating real, usable tools — not just interfaces — combining frontend development, product thinking and data analysis.
+I design and build digital products that turn complex problems into simple, usable experiences.
 
----
-
-## 🚀 What I Do
-
-- Build **conversion-focused landing pages** for services and online courses  
-- Develop **MVPs and web tools** from idea to functional product  
-- Create **interactive, data-driven applications**  
-- Turn ideas into **real, usable digital products**  
+My work sits at the intersection of **UX/UI, product thinking, frontend development, data and conversion** — from defining the problem and designing the experience to shipping a working product.
 
 ---
 
-## 🧠 Current Focus
+## 🚀 Selected Products
 
-- Data analysis & data-driven thinking  
-- Cybersecurity fundamentals  
-- Product-oriented development  
-- AI-assisted workflows  
+### 🧾 [StacksCSV](https://github.com/flormpecasique/StacksCSV)
 
----
+**Tax & data export tool for Stacks**
 
-## 🧰 Tech Stack
+Turns on-chain activity into clean CSV exports and detailed capital-gains reports.
 
-- HTML, CSS, JavaScript  
-- React  
-- Git & GitHub  
-- Vercel  
-- AI tools (ChatGPT, Claude, Gemini)  
+**Product · Data · UX · Next.js · TypeScript**
+
+→ [Live product](https://stackscsv.vercel.app/)
 
 ---
 
-## 📌 Featured Live Products
+### 🧮 [Invoice Generator](https://github.com/flormpecasique/generadordefacturas)
 
-### 🧾 Invoice Generator (Spain)
-Professional invoicing tool for freelancers with legal compliance, live preview and modern UI.  
-🔗 https://generadordefacturas.vercel.app  
+**Invoicing tool for freelancers in Spain**
 
----
+A browser-based invoicing experience focused on simplicity, live feedback and a clear financial workflow.
 
-### ✉️ MailtoPro
-Tool to generate fully encoded mailto links for developers and marketing use.  
-🔗 https://generadormailto.vercel.app  
+**UX/UI · Frontend · Product · SEO**
+
+→ [Live product](https://generadordefacturas.vercel.app/)
 
 ---
 
-## 🌍 Selected Work
+### 📊 [Venezuela Economic Potential](https://github.com/flormpecasique/Venezuela-economic-potential)
 
-### Conversion Websites
-- **Caredoula** – Service landing page  
-  🔗 https://tucaredoula.com 
+**Interactive data visualization**
 
+An interactive dashboard that turns complex economic and geographic data into understandable visual experiences.
 
-- **Online Courses (Conversion-focused)**  
-  Resina Pro → https://enresina.vercel.app  
-  Cardetailing → https://cardetailing-curso.vercel.app  
-  Vegan Baking → https://reposteriavegana.vercel.app  
-  FotoPro → https://metodofotopro.vercel.app/
+**Data visualization · Information design · JavaScript · Chart.js · Leaflet**
+
+→ [Live dashboard](https://venezuela-economic-potential.vercel.app/)
 
 ---
 
-### 📊 Data & Interactive Application
+## 🧠 What I Work Across
 
-**Venezuela Economic Potential Dashboard**  
-Interactive data-driven panel to explore economic opportunities, investment scenarios and growth potential using public datasets.  
-
-🔗 https://venezuela-economic-potential.vercel.app  
-
----
-
-### ⚙️ MVPs & Tools
-
-- Stacks Invoice → https://stacks-invoice.vercel.app
-- Stacks Tax & Data Export Layer → https://stackscsv.vercel.app
-- STXTracker → https://stx-tracker.vercel.app
-
-(Projects focused on building functional tools and exploring product ideas)
+* **Product Design** — UX/UI, flows, information architecture and interaction design
+* **Product Building** — turning ideas into functional MVPs and web tools
+* **Frontend** — HTML, CSS, JavaScript, React, Next.js
+* **Data** — dashboards, visualization and data-driven interfaces
+* **Conversion** — landing pages, user journeys and CRO
+* **AI-assisted workflows** — using AI as a development and problem-solving tool
 
 ---
 
-### 🔐 Cybersecurity
+## 🔎 How I Think
 
-- Cibersegura → https://cibersegura.vercel.app
-- Crypto Incident Response Playbook → https://github.com/flormpecasique/Crypto-incident-response-playbook-alexlab
+I like working from the **problem first**:
 
----
+**Problem → User → Structure → Interface → Product → Iterate**
 
-## 🎓 Certifications
-
-- Google Cybersecurity Professional Certificate  
-- Google Data Analytics Professional Certificate
+I care about making products understandable, useful and technically real — not just visually polished.
 
 ---
 
-## 📈 Currently
+## 🛠️ Tools & Technologies
 
-- Building real-world projects  
-- Improving product + data integration  
-- Expanding my portfolio  
+**Design & Product**
+
+UX/UI · Product Design · Design Thinking · CRO · Information Architecture
+
+**Development**
+
+HTML · CSS · JavaScript · React · Next.js · TypeScript · Git · GitHub · Vercel
+
+**Data**
+
+Data analysis · Data visualization · Chart.js · Leaflet
+
+**AI**
+
+ChatGPT · Claude · Gemini
 
 ---
 
-✨ Thanks for visiting 🤜
+## 🌱 Currently Exploring
+
+* Product development with AI-assisted workflows
+* Data-driven product experiences
+* Privacy & security in digital products
+* Open-source tools and independent products
+
+---
+
+## 📫 Find Me
+
+[LinkedIn](https://linkedin.com/in/florpc) · [Portfolio](https://estrategaflor.com) · [GitHub](https://github.com/flormpecasique)
+
+---
+
+*Building useful things, one product at a time.*
