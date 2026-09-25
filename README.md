@@ -98,7 +98,7 @@ ChatGPT · Claude · Gemini
 
 ## 📫 Find Me
 
-[LinkedIn](https://linkedin.com/in/florpc) · [Portfolio](https://estrategaflor.com) · [GitHub](https://github.com/flormpecasique)
+[LinkedIn](https://linkedin.com/in/florpc) · [GitHub](https://github.com/flormpecasique)
 
 ---
 
