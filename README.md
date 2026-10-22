@@ -10,6 +10,18 @@ My work sits at the intersection of **UX/UI, product thinking, frontend developm
 
 ## 🚀 Selected Products
 
+### 📒 [Fiao](https://libretadefiao.vercel.app)
+
+**Offline-first credit ledger for small shops in Venezuela**
+
+An offline-first credit ledger ("fiado") for small shops in Venezuela: debts in USD and bolívares at the daily rate, one-tap credit with frequent products, receipts as images for WhatsApp, and backups — no accounts, data never leaves the phone.
+
+**Product · UX/UI · PWA · Privacy · Accessibility** · Lighthouse 100 · AI-assisted development
+
+→ [Live product](https://libretadefiao.vercel.app/) · [Case study](https://github.com/flormpecasique/fiao)
+
+---
+
 ### 🧾 [StacksCSV](https://github.com/flormpecasique/StacksCSV)
 
 **Tax & data export tool for Stacks**
